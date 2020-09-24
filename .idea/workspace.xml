@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a7a0da5-3327-47c7-9ed8-0f087e4fe91d" name="Default Changelist" comment="Added style.css">
+    <list default="true" id="2a7a0da5-3327-47c7-9ed8-0f087e4fe91d" name="Default Changelist" comment="Added style.css as main css file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -66,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600365747618</updated>
       <workItem from="1600365749146" duration="5302000" />
-      <workItem from="1600971768032" duration="2005000" />
+      <workItem from="1600971768032" duration="4429000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1600372097518</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600972371860</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added style.css as main css file">
+      <created>1600973805648</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600973805648</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +133,8 @@
     <MESSAGE value=" projectspage" />
     <MESSAGE value="projectspage added" />
     <MESSAGE value="Added style.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added style.css" />
+    <MESSAGE value="Added style.css as main css file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added style.css as main css file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="158" key="#Deployment" timestamp="1600365903412">
@@ -149,10 +157,10 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="545" y="205" key="Github.UntrackedFilesDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1600372076031" />
-    <state x="343" y="233" key="Vcs.Push.Dialog.v2" timestamp="1600372600519">
+    <state x="343" y="233" key="Vcs.Push.Dialog.v2" timestamp="1600976229582">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
-    <state x="343" y="233" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1600372600519" />
+    <state x="343" y="233" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1600976229582" />
     <state x="568" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600372577205">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>

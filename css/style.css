@@ -1,4 +1,17 @@
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 25px;
+  line-height: 61px;
+}
+
+
 body {
-  background-color: lightblue;
+  background-color: white;
+}
+
+.links {
+
+  text-align: center;
+  border: 3px black;
 }
 
