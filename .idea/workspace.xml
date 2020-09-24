@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a7a0da5-3327-47c7-9ed8-0f087e4fe91d" name="Default Changelist" comment="projectspage added">
+    <list default="true" id="2a7a0da5-3327-47c7-9ed8-0f087e4fe91d" name="Default Changelist" comment="Added style.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600365747618</updated>
       <workItem from="1600365749146" duration="5302000" />
-      <workItem from="1600971768032" duration="303000" />
+      <workItem from="1600971768032" duration="2005000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1600372097518</created>
@@ -77,18 +96,37 @@
       <option name="project" value="LOCAL" />
       <updated>1600372592974</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added style.css">
+      <created>1600972371860</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600972371860</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push" />
     <MESSAGE value=" projectspage added" />
     <MESSAGE value=" projectspage" />
     <MESSAGE value="projectspage added" />
-    <option name="LAST_COMMIT_MESSAGE" value="projectspage added" />
+    <MESSAGE value="Added style.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added style.css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="158" key="#Deployment" timestamp="1600365903412">
@@ -99,6 +137,10 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="328" y="146" key="#SSH_Configurations/0.0.1500.1000@0.0.1500.1000" timestamp="1600365822139" />
+    <state x="481" y="247" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600973449300">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="481" y="247" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1600973449300" />
     <state x="621" y="398" key="Github.ShareDialog" timestamp="1600372067187">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
