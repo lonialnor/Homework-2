@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a7a0da5-3327-47c7-9ed8-0f087e4fe91d" name="Default Changelist" comment="push" />
+    <list default="true" id="2a7a0da5-3327-47c7-9ed8-0f087e4fe91d" name="Default Changelist" comment="projectspage added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +29,12 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -38,7 +46,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600365747618</updated>
-      <workItem from="1600365749146" duration="5043000" />
+      <workItem from="1600365749146" duration="5302000" />
+      <workItem from="1600971768032" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="push">
       <created>1600372097518</created>
@@ -47,7 +56,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600372097518</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" projectspage added">
+      <created>1600372400670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600372400670</updated>
+    </task>
+    <task id="LOCAL-00003" summary="projectspage added">
+      <created>1600372539298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600372539298</updated>
+    </task>
+    <task id="LOCAL-00004" summary="projectspage added">
+      <created>1600372592974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600372592974</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,7 +85,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
+    <MESSAGE value=" projectspage added" />
+    <MESSAGE value=" projectspage" />
+    <MESSAGE value="projectspage added" />
+    <option name="LAST_COMMIT_MESSAGE" value="projectspage added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="158" key="#Deployment" timestamp="1600365903412">
@@ -74,6 +107,14 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="545" y="205" key="Github.UntrackedFilesDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1600372076031" />
+    <state x="343" y="233" key="Vcs.Push.Dialog.v2" timestamp="1600372600519">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="343" y="233" key="Vcs.Push.Dialog.v2/0.0.1500.1000@0.0.1500.1000" timestamp="1600372600519" />
+    <state x="568" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600372577205">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="568" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.1000@0.0.1500.1000" timestamp="1600372577205" />
     <state x="636" y="231" key="ftp.server.browser" timestamp="1600365856678">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
